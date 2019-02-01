@@ -2945,8 +2945,10 @@
 
 		#banner h1 {
 			font-size: 3.5em;
-			font-weight: 100;
-			color: #fff;
+			font-weight: 300;
+			opacity: 0.7;
+			background-color: #FFF;
+			color: #000000;
 			line-height: 1em;
 			margin: 0 0 0.5em 0;
 			padding: 0;
